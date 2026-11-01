@@ -4,7 +4,7 @@ export const profile = {
   location: 'Brooklyn, NY',
   email: 'hello@example.com',
   image:
-    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQkBm-xGv1yVRcF3SCRhgC3g2ypjKQpv8XeFalNmTYKQ&s=10',
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ24actfJAM2SSvdea3sfYtR4X8z8_LKkiqvTDbbVOTOQ&s=10',
   intro:
     'I turn thoughtful ideas into useful, beautifully engineered digital products.',
   about:
