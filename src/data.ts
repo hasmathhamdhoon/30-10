@@ -1,10 +1,10 @@
 export const profile = {
-  name: 'Alex Morgan',
-  role: 'Software Engineer & Independent Builder',
+  name: 'Hasmath Hamdoon',
+  role: ' Engineer & Independent Builder',
   location: 'Brooklyn, NY',
   email: 'hello@example.com',
   image:
-    'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=1000&q=85',
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ24actfJAM2SSvdea3sfYtR4X8z8_LKkiqvTDbbVOTOQ&s=10',
   intro:
     'I turn thoughtful ideas into useful, beautifully engineered digital products.',
   about:
