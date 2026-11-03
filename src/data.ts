@@ -6,11 +6,11 @@ export const profile = {
   image:
     'https://media.licdn.com/dms/image/v2/D5603AQHZO5jMJi_Z4A/profile-displayphoto-crop_800_800/B56aGgMPA9JYAI-/0/1793688925366?e=1795046400&v=beta&t=9JKuPLRD5EWtrz5fKXHl9oOz4K3T85xupu5reJ4PR3I',
   intro:
-    'I am a Student level web developer.',
+    'Beginner level developer.',
   about:
     'I’m a passionate web developer with a focus on creating intuitive and efficient user experiences.',
   interests:
-    'Web application development, Digital Electronics related to telecommunications ,IOT Related.',
+    'Web application development, Digital Electronics & telecommunications ,IOT Related.',
   goal:
     'My next chapter: collaborating with curious people on products that make everyday work feel more human.',
 }
