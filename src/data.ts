@@ -1,16 +1,16 @@
 export const profile = {
   name: 'Hasmath Hamdoon',
-  role: ' Engineer & Independent Builder',
-  location: 'Brooklyn, NY',
-  email: 'hello@example.com',
+  role: ' Eng Tech',
+  location: 'East Sri Lanka',
+  email: 'hasmathhamdhoon@gmail.com',
   image:
-    'https://media.licdn.com/dms/image/v2/D5603AQGlFrktjKdRPg/profile-displayphoto-crop_800_800/B56aFaP3oBHEAI-/0/1792515472140?e=1795046400&v=beta&t=atwQEg2-gQJRorYcx1OMCaFN9gto7l3Ein9bGjeCw_s',
+    'https://media.licdn.com/dms/image/v2/D5603AQHZO5jMJi_Z4A/profile-displayphoto-crop_800_800/B56aGgMPA9JYAI-/0/1793688925366?e=1795046400&v=beta&t=9JKuPLRD5EWtrz5fKXHl9oOz4K3T85xupu5reJ4PR3I',
   intro:
-    'I turn thoughtful ideas into useful, beautifully engineered digital products.',
+    'I am a Student level web developer.',
   about:
-    'I’m a software engineer who enjoys working where product thinking meets the details of implementation. From the first sketch to the final interaction, I care about building experiences that feel clear, useful, and a little bit delightful.',
+    'I’m a passionate web developer with a focus on creating intuitive and efficient user experiences.',
   interests:
-    'Lately, I’ve been exploring creative tools, the future of independent software, and how small teams can make a meaningful impact. Away from the screen, I’m usually looking for a new coffee spot or a good trail.',
+    'Web application development, Digital Electronics related to telecommunications ,IOT Related.',
   goal:
     'My next chapter: collaborating with curious people on products that make everyday work feel more human.',
 }
